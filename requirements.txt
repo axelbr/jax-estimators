@@ -1,0 +1,4 @@
+jax[cpu]
+gym
+matplotlib
+scipy
