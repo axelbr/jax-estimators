@@ -3,6 +3,9 @@ from typing import Callable, Tuple
 import jax.numpy as jnp
 from jax import jacfwd
 
+class UncscentedKalmanFilter:
+    pass
+
 
 class ExtendedKalmanFilter:
     """
